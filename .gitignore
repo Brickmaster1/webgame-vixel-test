@@ -1,0 +1,18 @@
+# First, ignore everything
+*
+# Now, whitelist anything that's a directory
+!*/
+
+# Whitelist anything that's gits
+!*.git*
+
+# Generated compile commands for clangd
+**/compile_commands.json
+
+# Vscode directory
+**/.vscode
+
+# Whitelist file types for the web server.
+!*.html
+!*.js
+!*.wasm

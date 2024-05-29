@@ -1,0 +1,3 @@
+[submodule "ViXeL"]
+    path = ViXeL
+    url = https://git.jetbrains.space/technicalities/main/ViXeL.git
