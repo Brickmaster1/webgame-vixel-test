@@ -4,7 +4,7 @@
 !*/
 
 # Whitelist anything that's gits
-!*.git*
+!.git*
 
 # Vscode directory
 **/.vscode
