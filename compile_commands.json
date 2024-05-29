@@ -1,0 +1,286 @@
+[
+{
+  "directory": "/workspace/webgame-vixel-test/ViXeL/build",
+  "command": "/workspace/emsdk/upstream/emscripten/em++ -DSDL_MAIN_HANDLED -I/workspace/webgame-vixel-test/ViXeL/vcpkg_installed/wasm32-emscripten/include -I/ -I/workspace/webgame-vixel-test/ViXeL/ViXeL -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include/SDL2 -std=gnu++20 -o ViXeL/CMakeFiles/ViXeL.dir/lodepng/lodepng.cpp.o -c /workspace/webgame-vixel-test/ViXeL/ViXeL/lodepng/lodepng.cpp",
+  "file": "/workspace/webgame-vixel-test/ViXeL/ViXeL/lodepng/lodepng.cpp",
+  "output": "ViXeL/CMakeFiles/ViXeL.dir/lodepng/lodepng.cpp.o"
+},
+{
+  "directory": "/workspace/webgame-vixel-test/ViXeL/build",
+  "command": "/workspace/emsdk/upstream/emscripten/em++ -DSDL_MAIN_HANDLED -I/workspace/webgame-vixel-test/ViXeL/vcpkg_installed/wasm32-emscripten/include -I/ -I/workspace/webgame-vixel-test/ViXeL/ViXeL -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include/SDL2 -std=gnu++20 -o ViXeL/CMakeFiles/ViXeL.dir/ViXeL.cpp.o -c /workspace/webgame-vixel-test/ViXeL/ViXeL/ViXeL.cpp",
+  "file": "/workspace/webgame-vixel-test/ViXeL/ViXeL/ViXeL.cpp",
+  "output": "ViXeL/CMakeFiles/ViXeL.dir/ViXeL.cpp.o"
+},
+{
+  "directory": "/workspace/webgame-vixel-test/ViXeL/build",
+  "command": "/workspace/emsdk/upstream/emscripten/em++ -DSDL_MAIN_HANDLED -I/workspace/webgame-vixel-test/ViXeL/vcpkg_installed/wasm32-emscripten/include -I/ -I/workspace/webgame-vixel-test/ViXeL/ViXeL -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include/SDL2 -std=gnu++20 -o ViXeL/CMakeFiles/ViXeL.dir/Window.cpp.o -c /workspace/webgame-vixel-test/ViXeL/ViXeL/Window.cpp",
+  "file": "/workspace/webgame-vixel-test/ViXeL/ViXeL/Window.cpp",
+  "output": "ViXeL/CMakeFiles/ViXeL.dir/Window.cpp.o"
+},
+{
+  "directory": "/workspace/webgame-vixel-test/ViXeL/build",
+  "command": "/workspace/emsdk/upstream/emscripten/em++ -DSDL_MAIN_HANDLED -I/workspace/webgame-vixel-test/ViXeL/vcpkg_installed/wasm32-emscripten/include -I/ -I/workspace/webgame-vixel-test/ViXeL/ViXeL -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include/SDL2 -std=gnu++20 -o ViXeL/CMakeFiles/ViXeL.dir/error/Errors.cpp.o -c /workspace/webgame-vixel-test/ViXeL/ViXeL/error/Errors.cpp",
+  "file": "/workspace/webgame-vixel-test/ViXeL/ViXeL/error/Errors.cpp",
+  "output": "ViXeL/CMakeFiles/ViXeL.dir/error/Errors.cpp.o"
+},
+{
+  "directory": "/workspace/webgame-vixel-test/ViXeL/build",
+  "command": "/workspace/emsdk/upstream/emscripten/em++ -DSDL_MAIN_HANDLED -I/workspace/webgame-vixel-test/ViXeL/vcpkg_installed/wasm32-emscripten/include -I/ -I/workspace/webgame-vixel-test/ViXeL/ViXeL -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include/SDL2 -std=gnu++20 -o ViXeL/CMakeFiles/ViXeL.dir/logic/Timing.cpp.o -c /workspace/webgame-vixel-test/ViXeL/ViXeL/logic/Timing.cpp",
+  "file": "/workspace/webgame-vixel-test/ViXeL/ViXeL/logic/Timing.cpp",
+  "output": "ViXeL/CMakeFiles/ViXeL.dir/logic/Timing.cpp.o"
+},
+{
+  "directory": "/workspace/webgame-vixel-test/ViXeL/build",
+  "command": "/workspace/emsdk/upstream/emscripten/em++ -DSDL_MAIN_HANDLED -I/workspace/webgame-vixel-test/ViXeL/vcpkg_installed/wasm32-emscripten/include -I/ -I/workspace/webgame-vixel-test/ViXeL/ViXeL -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include/SDL2 -std=gnu++20 -o ViXeL/CMakeFiles/ViXeL.dir/logic/InputManager.cpp.o -c /workspace/webgame-vixel-test/ViXeL/ViXeL/logic/InputManager.cpp",
+  "file": "/workspace/webgame-vixel-test/ViXeL/ViXeL/logic/InputManager.cpp",
+  "output": "ViXeL/CMakeFiles/ViXeL.dir/logic/InputManager.cpp.o"
+},
+{
+  "directory": "/workspace/webgame-vixel-test/ViXeL/build",
+  "command": "/workspace/emsdk/upstream/emscripten/em++ -DSDL_MAIN_HANDLED -I/workspace/webgame-vixel-test/ViXeL/vcpkg_installed/wasm32-emscripten/include -I/ -I/workspace/webgame-vixel-test/ViXeL/ViXeL -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include/SDL2 -std=gnu++20 -o ViXeL/CMakeFiles/ViXeL.dir/data/IOManager.cpp.o -c /workspace/webgame-vixel-test/ViXeL/ViXeL/data/IOManager.cpp",
+  "file": "/workspace/webgame-vixel-test/ViXeL/ViXeL/data/IOManager.cpp",
+  "output": "ViXeL/CMakeFiles/ViXeL.dir/data/IOManager.cpp.o"
+},
+{
+  "directory": "/workspace/webgame-vixel-test/ViXeL/build",
+  "command": "/workspace/emsdk/upstream/emscripten/em++ -DSDL_MAIN_HANDLED -I/workspace/webgame-vixel-test/ViXeL/vcpkg_installed/wasm32-emscripten/include -I/ -I/workspace/webgame-vixel-test/ViXeL/ViXeL -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include/SDL2 -std=gnu++20 -o ViXeL/CMakeFiles/ViXeL.dir/data/ImageLoader.cpp.o -c /workspace/webgame-vixel-test/ViXeL/ViXeL/data/ImageLoader.cpp",
+  "file": "/workspace/webgame-vixel-test/ViXeL/ViXeL/data/ImageLoader.cpp",
+  "output": "ViXeL/CMakeFiles/ViXeL.dir/data/ImageLoader.cpp.o"
+},
+{
+  "directory": "/workspace/webgame-vixel-test/ViXeL/build",
+  "command": "/workspace/emsdk/upstream/emscripten/em++ -DSDL_MAIN_HANDLED -I/workspace/webgame-vixel-test/ViXeL/vcpkg_installed/wasm32-emscripten/include -I/ -I/workspace/webgame-vixel-test/ViXeL/ViXeL -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include/SDL2 -std=gnu++20 -o ViXeL/CMakeFiles/ViXeL.dir/data/ResourceManager.cpp.o -c /workspace/webgame-vixel-test/ViXeL/ViXeL/data/ResourceManager.cpp",
+  "file": "/workspace/webgame-vixel-test/ViXeL/ViXeL/data/ResourceManager.cpp",
+  "output": "ViXeL/CMakeFiles/ViXeL.dir/data/ResourceManager.cpp.o"
+},
+{
+  "directory": "/workspace/webgame-vixel-test/ViXeL/build",
+  "command": "/workspace/emsdk/upstream/emscripten/em++ -DSDL_MAIN_HANDLED -I/workspace/webgame-vixel-test/ViXeL/vcpkg_installed/wasm32-emscripten/include -I/ -I/workspace/webgame-vixel-test/ViXeL/ViXeL -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include/SDL2 -std=gnu++20 -o ViXeL/CMakeFiles/ViXeL.dir/data/texture/TextureCache.cpp.o -c /workspace/webgame-vixel-test/ViXeL/ViXeL/data/texture/TextureCache.cpp",
+  "file": "/workspace/webgame-vixel-test/ViXeL/ViXeL/data/texture/TextureCache.cpp",
+  "output": "ViXeL/CMakeFiles/ViXeL.dir/data/texture/TextureCache.cpp.o"
+},
+{
+  "directory": "/workspace/webgame-vixel-test/ViXeL/build",
+  "command": "/workspace/emsdk/upstream/emscripten/em++ -DSDL_MAIN_HANDLED -I/workspace/webgame-vixel-test/ViXeL/vcpkg_installed/wasm32-emscripten/include -I/ -I/workspace/webgame-vixel-test/ViXeL/ViXeL -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include/SDL2 -std=gnu++20 -o ViXeL/CMakeFiles/ViXeL.dir/event/Event.cpp.o -c /workspace/webgame-vixel-test/ViXeL/ViXeL/event/Event.cpp",
+  "file": "/workspace/webgame-vixel-test/ViXeL/ViXeL/event/Event.cpp",
+  "output": "ViXeL/CMakeFiles/ViXeL.dir/event/Event.cpp.o"
+},
+{
+  "directory": "/workspace/webgame-vixel-test/ViXeL/build",
+  "command": "/workspace/emsdk/upstream/emscripten/em++ -DSDL_MAIN_HANDLED -I/workspace/webgame-vixel-test/ViXeL/vcpkg_installed/wasm32-emscripten/include -I/ -I/workspace/webgame-vixel-test/ViXeL/ViXeL -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include/SDL2 -std=gnu++20 -o ViXeL/CMakeFiles/ViXeL.dir/event/EventManager.cpp.o -c /workspace/webgame-vixel-test/ViXeL/ViXeL/event/EventManager.cpp",
+  "file": "/workspace/webgame-vixel-test/ViXeL/ViXeL/event/EventManager.cpp",
+  "output": "ViXeL/CMakeFiles/ViXeL.dir/event/EventManager.cpp.o"
+},
+{
+  "directory": "/workspace/webgame-vixel-test/ViXeL/build",
+  "command": "/workspace/emsdk/upstream/emscripten/em++ -DSDL_MAIN_HANDLED -I/workspace/webgame-vixel-test/ViXeL/vcpkg_installed/wasm32-emscripten/include -I/ -I/workspace/webgame-vixel-test/ViXeL/ViXeL -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include/SDL2 -std=gnu++20 -o ViXeL/CMakeFiles/ViXeL.dir/event/events/SDLEvent.cpp.o -c /workspace/webgame-vixel-test/ViXeL/ViXeL/event/events/SDLEvent.cpp",
+  "file": "/workspace/webgame-vixel-test/ViXeL/ViXeL/event/events/SDLEvent.cpp",
+  "output": "ViXeL/CMakeFiles/ViXeL.dir/event/events/SDLEvent.cpp.o"
+},
+{
+  "directory": "/workspace/webgame-vixel-test/ViXeL/build",
+  "command": "/workspace/emsdk/upstream/emscripten/em++ -DSDL_MAIN_HANDLED -I/workspace/webgame-vixel-test/ViXeL/vcpkg_installed/wasm32-emscripten/include -I/ -I/workspace/webgame-vixel-test/ViXeL/ViXeL -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include/SDL2 -std=gnu++20 -o ViXeL/CMakeFiles/ViXeL.dir/event/events/KeyEvent.cpp.o -c /workspace/webgame-vixel-test/ViXeL/ViXeL/event/events/KeyEvent.cpp",
+  "file": "/workspace/webgame-vixel-test/ViXeL/ViXeL/event/events/KeyEvent.cpp",
+  "output": "ViXeL/CMakeFiles/ViXeL.dir/event/events/KeyEvent.cpp.o"
+},
+{
+  "directory": "/workspace/webgame-vixel-test/ViXeL/build",
+  "command": "/workspace/emsdk/upstream/emscripten/em++ -DSDL_MAIN_HANDLED -I/workspace/webgame-vixel-test/ViXeL/vcpkg_installed/wasm32-emscripten/include -I/ -I/workspace/webgame-vixel-test/ViXeL/ViXeL -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include/SDL2 -std=gnu++20 -o ViXeL/CMakeFiles/ViXeL.dir/event/events/MouseEvent.cpp.o -c /workspace/webgame-vixel-test/ViXeL/ViXeL/event/events/MouseEvent.cpp",
+  "file": "/workspace/webgame-vixel-test/ViXeL/ViXeL/event/events/MouseEvent.cpp",
+  "output": "ViXeL/CMakeFiles/ViXeL.dir/event/events/MouseEvent.cpp.o"
+},
+{
+  "directory": "/workspace/webgame-vixel-test/ViXeL/build",
+  "command": "/workspace/emsdk/upstream/emscripten/em++ -DSDL_MAIN_HANDLED -I/workspace/webgame-vixel-test/ViXeL/vcpkg_installed/wasm32-emscripten/include -I/ -I/workspace/webgame-vixel-test/ViXeL/ViXeL -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include/SDL2 -std=gnu++20 -o ViXeL/CMakeFiles/ViXeL.dir/rendering/GLSLShaderProgram.cpp.o -c /workspace/webgame-vixel-test/ViXeL/ViXeL/rendering/GLSLShaderProgram.cpp",
+  "file": "/workspace/webgame-vixel-test/ViXeL/ViXeL/rendering/GLSLShaderProgram.cpp",
+  "output": "ViXeL/CMakeFiles/ViXeL.dir/rendering/GLSLShaderProgram.cpp.o"
+},
+{
+  "directory": "/workspace/webgame-vixel-test/ViXeL/build",
+  "command": "/workspace/emsdk/upstream/emscripten/em++ -DSDL_MAIN_HANDLED -I/workspace/webgame-vixel-test/ViXeL/vcpkg_installed/wasm32-emscripten/include -I/ -I/workspace/webgame-vixel-test/ViXeL/ViXeL -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include/SDL2 -std=gnu++20 -o ViXeL/CMakeFiles/ViXeL.dir/rendering/camera/Camera3D.cpp.o -c /workspace/webgame-vixel-test/ViXeL/ViXeL/rendering/camera/Camera3D.cpp",
+  "file": "/workspace/webgame-vixel-test/ViXeL/ViXeL/rendering/camera/Camera3D.cpp",
+  "output": "ViXeL/CMakeFiles/ViXeL.dir/rendering/camera/Camera3D.cpp.o"
+},
+{
+  "directory": "/workspace/webgame-vixel-test/ViXeL/build",
+  "command": "/workspace/emsdk/upstream/emscripten/em++ -DSDL_MAIN_HANDLED -I/workspace/webgame-vixel-test/ViXeL/vcpkg_installed/wasm32-emscripten/include -I/ -I/workspace/webgame-vixel-test/ViXeL/ViXeL -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include/SDL2 -std=gnu++20 -o ViXeL/CMakeFiles/ViXeL.dir/rendering/camera/Camera2D.cpp.o -c /workspace/webgame-vixel-test/ViXeL/ViXeL/rendering/camera/Camera2D.cpp",
+  "file": "/workspace/webgame-vixel-test/ViXeL/ViXeL/rendering/camera/Camera2D.cpp",
+  "output": "ViXeL/CMakeFiles/ViXeL.dir/rendering/camera/Camera2D.cpp.o"
+},
+{
+  "directory": "/workspace/webgame-vixel-test/ViXeL/build",
+  "command": "/workspace/emsdk/upstream/emscripten/em++ -DSDL_MAIN_HANDLED -I/workspace/webgame-vixel-test/ViXeL/vcpkg_installed/wasm32-emscripten/include -I/ -I/workspace/webgame-vixel-test/ViXeL/ViXeL -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include/SDL2 -std=gnu++20 -o ViXeL/CMakeFiles/ViXeL.dir/rendering/SpriteBatcher.cpp.o -c /workspace/webgame-vixel-test/ViXeL/ViXeL/rendering/SpriteBatcher.cpp",
+  "file": "/workspace/webgame-vixel-test/ViXeL/ViXeL/rendering/SpriteBatcher.cpp",
+  "output": "ViXeL/CMakeFiles/ViXeL.dir/rendering/SpriteBatcher.cpp.o"
+},
+{
+  "directory": "/workspace/webgame-vixel-test/ViXeL/build",
+  "command": "/workspace/emsdk/upstream/emscripten/em++ -DSDL_MAIN_HANDLED -I/workspace/webgame-vixel-test/ViXeL/vcpkg_installed/wasm32-emscripten/include -I/ -I/workspace/webgame-vixel-test/ViXeL/ViXeL -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include/SDL2 -std=gnu++20 -o ViXeL/CMakeFiles/ViXeL.dir/rendering/Sprite.cpp.o -c /workspace/webgame-vixel-test/ViXeL/ViXeL/rendering/Sprite.cpp",
+  "file": "/workspace/webgame-vixel-test/ViXeL/ViXeL/rendering/Sprite.cpp",
+  "output": "ViXeL/CMakeFiles/ViXeL.dir/rendering/Sprite.cpp.o"
+},
+{
+  "directory": "/workspace/webgame-vixel-test/ViXeL/build",
+  "command": "/workspace/emsdk/upstream/emscripten/em++ -DSDL_MAIN_HANDLED -I/workspace/webgame-vixel-test/ViXeL/vcpkg_installed/wasm32-emscripten/include -I/ -I/workspace/webgame-vixel-test/ViXeL/ViXeL -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include/SDL2 -std=gnu++20 -o ViXeL/CMakeFiles/ViXeL.dir/physics/AABB.cpp.o -c /workspace/webgame-vixel-test/ViXeL/ViXeL/physics/AABB.cpp",
+  "file": "/workspace/webgame-vixel-test/ViXeL/ViXeL/physics/AABB.cpp",
+  "output": "ViXeL/CMakeFiles/ViXeL.dir/physics/AABB.cpp.o"
+},
+{
+  "directory": "/workspace/webgame-vixel-test/ViXeL/build",
+  "command": "/workspace/emsdk/upstream/emscripten/em++ -DSDL_MAIN_HANDLED -I/workspace/webgame-vixel-test/ViXeL/vcpkg_installed/wasm32-emscripten/include -I/ -I/workspace/webgame-vixel-test/ViXeL/ViXeL -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include/SDL2 -std=gnu++20 -o ViXeL/CMakeFiles/ViXeL.dir/physics/CollidableObject.cpp.o -c /workspace/webgame-vixel-test/ViXeL/ViXeL/physics/CollidableObject.cpp",
+  "file": "/workspace/webgame-vixel-test/ViXeL/ViXeL/physics/CollidableObject.cpp",
+  "output": "ViXeL/CMakeFiles/ViXeL.dir/physics/CollidableObject.cpp.o"
+},
+{
+  "directory": "/workspace/webgame-vixel-test/ViXeL/build",
+  "command": "/workspace/emsdk/upstream/emscripten/em++ -DSDL_MAIN_HANDLED -I/workspace/webgame-vixel-test/ViXeL/vcpkg_installed/wasm32-emscripten/include -I/ -I/workspace/webgame-vixel-test/ViXeL/ViXeL -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include/SDL2 -std=gnu++20 -o ViXeL/CMakeFiles/ViXeL.dir/game/GameObject.cpp.o -c /workspace/webgame-vixel-test/ViXeL/ViXeL/game/GameObject.cpp",
+  "file": "/workspace/webgame-vixel-test/ViXeL/ViXeL/game/GameObject.cpp",
+  "output": "ViXeL/CMakeFiles/ViXeL.dir/game/GameObject.cpp.o"
+},
+{
+  "directory": "/workspace/webgame-vixel-test/ViXeL/build",
+  "command": "/workspace/emsdk/upstream/emscripten/em++ -I/workspace/webgame-vixel-test/ViXeL/vcpkg_installed/wasm32-emscripten/include -I/ -I/workspace/webgame-vixel-test/ViXeL/Testing/ViXel -I/workspace/webgame-vixel-test/ViXeL/Testing/../ViXeL/.. -I/workspace/webgame-vixel-test/ViXeL/ViXeL -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include/SDL2 -std=gnu++20 -target wasm32-unknown-emscripten -fignore-exceptions -mllvm -combiner-global-alias-analysis=false -mllvm -enable-emscripten-sjlj -mllvm -disable-lsr --sysroot=/workspace/emsdk/upstream/emscripten/cache/sysroot -DEMSCRIPTEN -Xclang -iwithsysroot/include/fakesdl -Xclang -iwithsysroot/include/compat -o Testing/CMakeFiles/Testing.dir/main.cpp.o -c /workspace/webgame-vixel-test/ViXeL/Testing/main.cpp",
+  "file": "/workspace/webgame-vixel-test/ViXeL/Testing/main.cpp",
+  "output": "Testing/CMakeFiles/Testing.dir/main.cpp.o"
+},
+{
+  "directory": "/workspace/webgame-vixel-test/ViXeL/build",
+  "command": "/workspace/emsdk/upstream/emscripten/em++ -DSDL_MAIN_HANDLED -I/workspace/webgame-vixel-test/ViXeL/vcpkg_installed/wasm32-emscripten/include -I/ -I/workspace/webgame-vixel-test/ViXeL/ViXeL -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include/SDL2 -std=gnu++20 -c /workspace/webgame-vixel-test/ViXeL/ViXeL/lodepng/lodepng.h",
+  "file": "/workspace/webgame-vixel-test/ViXeL/ViXeL/lodepng/lodepng.h"
+},
+{
+  "directory": "/workspace/webgame-vixel-test/ViXeL/build",
+  "command": "/workspace/emsdk/upstream/emscripten/em++ -DSDL_MAIN_HANDLED -I/workspace/webgame-vixel-test/ViXeL/vcpkg_installed/wasm32-emscripten/include -I/ -I/workspace/webgame-vixel-test/ViXeL/ViXeL -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include/SDL2 -std=gnu++20 -c /workspace/webgame-vixel-test/ViXeL/ViXeL/Window.h",
+  "file": "/workspace/webgame-vixel-test/ViXeL/ViXeL/Window.h"
+},
+{
+  "directory": "/workspace/webgame-vixel-test/ViXeL/build",
+  "command": "/workspace/emsdk/upstream/emscripten/em++ -DSDL_MAIN_HANDLED -I/workspace/webgame-vixel-test/ViXeL/vcpkg_installed/wasm32-emscripten/include -I/ -I/workspace/webgame-vixel-test/ViXeL/ViXeL -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include/SDL2 -std=gnu++20 -c /workspace/webgame-vixel-test/ViXeL/ViXeL/error/Errors.h",
+  "file": "/workspace/webgame-vixel-test/ViXeL/ViXeL/error/Errors.h"
+},
+{
+  "directory": "/workspace/webgame-vixel-test/ViXeL/build",
+  "command": "/workspace/emsdk/upstream/emscripten/em++ -DSDL_MAIN_HANDLED -I/workspace/webgame-vixel-test/ViXeL/vcpkg_installed/wasm32-emscripten/include -I/ -I/workspace/webgame-vixel-test/ViXeL/ViXeL -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include/SDL2 -std=gnu++20 -c /workspace/webgame-vixel-test/ViXeL/ViXeL/logic/Timing.h",
+  "file": "/workspace/webgame-vixel-test/ViXeL/ViXeL/logic/Timing.h"
+},
+{
+  "directory": "/workspace/webgame-vixel-test/ViXeL/build",
+  "command": "/workspace/emsdk/upstream/emscripten/em++ -DSDL_MAIN_HANDLED -I/workspace/webgame-vixel-test/ViXeL/vcpkg_installed/wasm32-emscripten/include -I/ -I/workspace/webgame-vixel-test/ViXeL/ViXeL -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include/SDL2 -std=gnu++20 -c /workspace/webgame-vixel-test/ViXeL/ViXeL/logic/InputManager.h",
+  "file": "/workspace/webgame-vixel-test/ViXeL/ViXeL/logic/InputManager.h"
+},
+{
+  "directory": "/workspace/webgame-vixel-test/ViXeL/build",
+  "command": "/workspace/emsdk/upstream/emscripten/em++ -DSDL_MAIN_HANDLED -I/workspace/webgame-vixel-test/ViXeL/vcpkg_installed/wasm32-emscripten/include -I/ -I/workspace/webgame-vixel-test/ViXeL/ViXeL -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include/SDL2 -std=gnu++20 -c /workspace/webgame-vixel-test/ViXeL/ViXeL/data/IOManager.h",
+  "file": "/workspace/webgame-vixel-test/ViXeL/ViXeL/data/IOManager.h"
+},
+{
+  "directory": "/workspace/webgame-vixel-test/ViXeL/build",
+  "command": "/workspace/emsdk/upstream/emscripten/em++ -DSDL_MAIN_HANDLED -I/workspace/webgame-vixel-test/ViXeL/vcpkg_installed/wasm32-emscripten/include -I/ -I/workspace/webgame-vixel-test/ViXeL/ViXeL -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include/SDL2 -std=gnu++20 -c /workspace/webgame-vixel-test/ViXeL/ViXeL/data/ImageLoader.h",
+  "file": "/workspace/webgame-vixel-test/ViXeL/ViXeL/data/ImageLoader.h"
+},
+{
+  "directory": "/workspace/webgame-vixel-test/ViXeL/build",
+  "command": "/workspace/emsdk/upstream/emscripten/em++ -DSDL_MAIN_HANDLED -I/workspace/webgame-vixel-test/ViXeL/vcpkg_installed/wasm32-emscripten/include -I/ -I/workspace/webgame-vixel-test/ViXeL/ViXeL -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include/SDL2 -std=gnu++20 -c /workspace/webgame-vixel-test/ViXeL/ViXeL/data/texture/GLTexture.h",
+  "file": "/workspace/webgame-vixel-test/ViXeL/ViXeL/data/texture/GLTexture.h"
+},
+{
+  "directory": "/workspace/webgame-vixel-test/ViXeL/build",
+  "command": "/workspace/emsdk/upstream/emscripten/em++ -DSDL_MAIN_HANDLED -I/workspace/webgame-vixel-test/ViXeL/vcpkg_installed/wasm32-emscripten/include -I/ -I/workspace/webgame-vixel-test/ViXeL/ViXeL -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include/SDL2 -std=gnu++20 -c /workspace/webgame-vixel-test/ViXeL/ViXeL/data/ResourceManager.h",
+  "file": "/workspace/webgame-vixel-test/ViXeL/ViXeL/data/ResourceManager.h"
+},
+{
+  "directory": "/workspace/webgame-vixel-test/ViXeL/build",
+  "command": "/workspace/emsdk/upstream/emscripten/em++ -DSDL_MAIN_HANDLED -I/workspace/webgame-vixel-test/ViXeL/vcpkg_installed/wasm32-emscripten/include -I/ -I/workspace/webgame-vixel-test/ViXeL/ViXeL -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include/SDL2 -std=gnu++20 -c /workspace/webgame-vixel-test/ViXeL/ViXeL/data/texture/TextureCache.h",
+  "file": "/workspace/webgame-vixel-test/ViXeL/ViXeL/data/texture/TextureCache.h"
+},
+{
+  "directory": "/workspace/webgame-vixel-test/ViXeL/build",
+  "command": "/workspace/emsdk/upstream/emscripten/em++ -DSDL_MAIN_HANDLED -I/workspace/webgame-vixel-test/ViXeL/vcpkg_installed/wasm32-emscripten/include -I/ -I/workspace/webgame-vixel-test/ViXeL/ViXeL -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include/SDL2 -std=gnu++20 -c /workspace/webgame-vixel-test/ViXeL/ViXeL/event/Event.h",
+  "file": "/workspace/webgame-vixel-test/ViXeL/ViXeL/event/Event.h"
+},
+{
+  "directory": "/workspace/webgame-vixel-test/ViXeL/build",
+  "command": "/workspace/emsdk/upstream/emscripten/em++ -DSDL_MAIN_HANDLED -I/workspace/webgame-vixel-test/ViXeL/vcpkg_installed/wasm32-emscripten/include -I/ -I/workspace/webgame-vixel-test/ViXeL/ViXeL -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include/SDL2 -std=gnu++20 -c /workspace/webgame-vixel-test/ViXeL/ViXeL/util/Typing.h",
+  "file": "/workspace/webgame-vixel-test/ViXeL/ViXeL/util/Typing.h"
+},
+{
+  "directory": "/workspace/webgame-vixel-test/ViXeL/build",
+  "command": "/workspace/emsdk/upstream/emscripten/em++ -DSDL_MAIN_HANDLED -I/workspace/webgame-vixel-test/ViXeL/vcpkg_installed/wasm32-emscripten/include -I/ -I/workspace/webgame-vixel-test/ViXeL/ViXeL -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include/SDL2 -std=gnu++20 -c /workspace/webgame-vixel-test/ViXeL/ViXeL/event/EventManager.h",
+  "file": "/workspace/webgame-vixel-test/ViXeL/ViXeL/event/EventManager.h"
+},
+{
+  "directory": "/workspace/webgame-vixel-test/ViXeL/build",
+  "command": "/workspace/emsdk/upstream/emscripten/em++ -DSDL_MAIN_HANDLED -I/workspace/webgame-vixel-test/ViXeL/vcpkg_installed/wasm32-emscripten/include -I/ -I/workspace/webgame-vixel-test/ViXeL/ViXeL -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include/SDL2 -std=gnu++20 -c /workspace/webgame-vixel-test/ViXeL/ViXeL/util/Templating.h",
+  "file": "/workspace/webgame-vixel-test/ViXeL/ViXeL/util/Templating.h"
+},
+{
+  "directory": "/workspace/webgame-vixel-test/ViXeL/build",
+  "command": "/workspace/emsdk/upstream/emscripten/em++ -DSDL_MAIN_HANDLED -I/workspace/webgame-vixel-test/ViXeL/vcpkg_installed/wasm32-emscripten/include -I/ -I/workspace/webgame-vixel-test/ViXeL/ViXeL -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include/SDL2 -std=gnu++20 -c /workspace/webgame-vixel-test/ViXeL/ViXeL/event/InternalEvents.h",
+  "file": "/workspace/webgame-vixel-test/ViXeL/ViXeL/event/InternalEvents.h"
+},
+{
+  "directory": "/workspace/webgame-vixel-test/ViXeL/build",
+  "command": "/workspace/emsdk/upstream/emscripten/em++ -DSDL_MAIN_HANDLED -I/workspace/webgame-vixel-test/ViXeL/vcpkg_installed/wasm32-emscripten/include -I/ -I/workspace/webgame-vixel-test/ViXeL/ViXeL -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include/SDL2 -std=gnu++20 -c /workspace/webgame-vixel-test/ViXeL/ViXeL/event/events/KeyEvent.h",
+  "file": "/workspace/webgame-vixel-test/ViXeL/ViXeL/event/events/KeyEvent.h"
+},
+{
+  "directory": "/workspace/webgame-vixel-test/ViXeL/build",
+  "command": "/workspace/emsdk/upstream/emscripten/em++ -DSDL_MAIN_HANDLED -I/workspace/webgame-vixel-test/ViXeL/vcpkg_installed/wasm32-emscripten/include -I/ -I/workspace/webgame-vixel-test/ViXeL/ViXeL -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include/SDL2 -std=gnu++20 -c /workspace/webgame-vixel-test/ViXeL/ViXeL/event/events/MouseEvent.h",
+  "file": "/workspace/webgame-vixel-test/ViXeL/ViXeL/event/events/MouseEvent.h"
+},
+{
+  "directory": "/workspace/webgame-vixel-test/ViXeL/build",
+  "command": "/workspace/emsdk/upstream/emscripten/em++ -DSDL_MAIN_HANDLED -I/workspace/webgame-vixel-test/ViXeL/vcpkg_installed/wasm32-emscripten/include -I/ -I/workspace/webgame-vixel-test/ViXeL/ViXeL -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include/SDL2 -std=gnu++20 -c /workspace/webgame-vixel-test/ViXeL/ViXeL/event/events/SDLEvent.h",
+  "file": "/workspace/webgame-vixel-test/ViXeL/ViXeL/event/events/SDLEvent.h"
+},
+{
+  "directory": "/workspace/webgame-vixel-test/ViXeL/build",
+  "command": "/workspace/emsdk/upstream/emscripten/em++ -DSDL_MAIN_HANDLED -I/workspace/webgame-vixel-test/ViXeL/vcpkg_installed/wasm32-emscripten/include -I/ -I/workspace/webgame-vixel-test/ViXeL/ViXeL -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include/SDL2 -std=gnu++20 -c /workspace/webgame-vixel-test/ViXeL/ViXeL/rendering/GLSLShaderProgram.h",
+  "file": "/workspace/webgame-vixel-test/ViXeL/ViXeL/rendering/GLSLShaderProgram.h"
+},
+{
+  "directory": "/workspace/webgame-vixel-test/ViXeL/build",
+  "command": "/workspace/emsdk/upstream/emscripten/em++ -DSDL_MAIN_HANDLED -I/workspace/webgame-vixel-test/ViXeL/vcpkg_installed/wasm32-emscripten/include -I/ -I/workspace/webgame-vixel-test/ViXeL/ViXeL -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include/SDL2 -std=gnu++20 -c /workspace/webgame-vixel-test/ViXeL/ViXeL/rendering/camera/Camera3D.h",
+  "file": "/workspace/webgame-vixel-test/ViXeL/ViXeL/rendering/camera/Camera3D.h"
+},
+{
+  "directory": "/workspace/webgame-vixel-test/ViXeL/build",
+  "command": "/workspace/emsdk/upstream/emscripten/em++ -DSDL_MAIN_HANDLED -I/workspace/webgame-vixel-test/ViXeL/vcpkg_installed/wasm32-emscripten/include -I/ -I/workspace/webgame-vixel-test/ViXeL/ViXeL -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include/SDL2 -std=gnu++20 -c /workspace/webgame-vixel-test/ViXeL/ViXeL/rendering/camera/Camera2D.h",
+  "file": "/workspace/webgame-vixel-test/ViXeL/ViXeL/rendering/camera/Camera2D.h"
+},
+{
+  "directory": "/workspace/webgame-vixel-test/ViXeL/build",
+  "command": "/workspace/emsdk/upstream/emscripten/em++ -DSDL_MAIN_HANDLED -I/workspace/webgame-vixel-test/ViXeL/vcpkg_installed/wasm32-emscripten/include -I/ -I/workspace/webgame-vixel-test/ViXeL/ViXeL -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include/SDL2 -std=gnu++20 -c /workspace/webgame-vixel-test/ViXeL/ViXeL/rendering/SpriteBatcher.h",
+  "file": "/workspace/webgame-vixel-test/ViXeL/ViXeL/rendering/SpriteBatcher.h"
+},
+{
+  "directory": "/workspace/webgame-vixel-test/ViXeL/build",
+  "command": "/workspace/emsdk/upstream/emscripten/em++ -DSDL_MAIN_HANDLED -I/workspace/webgame-vixel-test/ViXeL/vcpkg_installed/wasm32-emscripten/include -I/ -I/workspace/webgame-vixel-test/ViXeL/ViXeL -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include/SDL2 -std=gnu++20 -c /workspace/webgame-vixel-test/ViXeL/ViXeL/data/Vertex.h",
+  "file": "/workspace/webgame-vixel-test/ViXeL/ViXeL/data/Vertex.h"
+},
+{
+  "directory": "/workspace/webgame-vixel-test/ViXeL/build",
+  "command": "/workspace/emsdk/upstream/emscripten/em++ -DSDL_MAIN_HANDLED -I/workspace/webgame-vixel-test/ViXeL/vcpkg_installed/wasm32-emscripten/include -I/ -I/workspace/webgame-vixel-test/ViXeL/ViXeL -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include/SDL2 -std=gnu++20 -c /workspace/webgame-vixel-test/ViXeL/ViXeL/rendering/Sprite.h",
+  "file": "/workspace/webgame-vixel-test/ViXeL/ViXeL/rendering/Sprite.h"
+},
+{
+  "directory": "/workspace/webgame-vixel-test/ViXeL/build",
+  "command": "/workspace/emsdk/upstream/emscripten/em++ -DSDL_MAIN_HANDLED -I/workspace/webgame-vixel-test/ViXeL/vcpkg_installed/wasm32-emscripten/include -I/ -I/workspace/webgame-vixel-test/ViXeL/ViXeL -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include/SDL2 -std=gnu++20 -c /workspace/webgame-vixel-test/ViXeL/ViXeL/physics/AABB.h",
+  "file": "/workspace/webgame-vixel-test/ViXeL/ViXeL/physics/AABB.h"
+},
+{
+  "directory": "/workspace/webgame-vixel-test/ViXeL/build",
+  "command": "/workspace/emsdk/upstream/emscripten/em++ -DSDL_MAIN_HANDLED -I/workspace/webgame-vixel-test/ViXeL/vcpkg_installed/wasm32-emscripten/include -I/ -I/workspace/webgame-vixel-test/ViXeL/ViXeL -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include/SDL2 -std=gnu++20 -c /workspace/webgame-vixel-test/ViXeL/ViXeL/model/Mesh.h",
+  "file": "/workspace/webgame-vixel-test/ViXeL/ViXeL/model/Mesh.h"
+},
+{
+  "directory": "/workspace/webgame-vixel-test/ViXeL/build",
+  "command": "/workspace/emsdk/upstream/emscripten/em++ -DSDL_MAIN_HANDLED -I/workspace/webgame-vixel-test/ViXeL/vcpkg_installed/wasm32-emscripten/include -I/ -I/workspace/webgame-vixel-test/ViXeL/ViXeL -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include/SDL2 -std=gnu++20 -c /workspace/webgame-vixel-test/ViXeL/ViXeL/physics/CollidableObject.h",
+  "file": "/workspace/webgame-vixel-test/ViXeL/ViXeL/physics/CollidableObject.h"
+},
+{
+  "directory": "/workspace/webgame-vixel-test/ViXeL/build",
+  "command": "/workspace/emsdk/upstream/emscripten/em++ -I/workspace/webgame-vixel-test/ViXeL/vcpkg_installed/wasm32-emscripten/include -I/ -I/workspace/webgame-vixel-test/ViXeL/Testing/ViXel -I/workspace/webgame-vixel-test/ViXeL/Testing/../ViXeL/.. -I/workspace/webgame-vixel-test/ViXeL/ViXeL -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include -isystem /workspace/webgame-vixel-test/ViXeL/build/vcpkg_installed/wasm32-emscripten/include/SDL2 -std=gnu++20 -target wasm32-unknown-emscripten -fignore-exceptions -mllvm -combiner-global-alias-analysis=false -mllvm -enable-emscripten-sjlj -mllvm -disable-lsr --sysroot=/workspace/emsdk/upstream/emscripten/cache/sysroot -DEMSCRIPTEN -Xclang -iwithsysroot/include/fakesdl -Xclang -iwithsysroot/include/compat -c /workspace/webgame-vixel-test/ViXeL/ViXeL/ViXeL.h",
+  "file": "/workspace/webgame-vixel-test/ViXeL/ViXeL/ViXeL.h"
+}
+]
