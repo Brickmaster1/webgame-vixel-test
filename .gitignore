@@ -6,3 +6,6 @@
 
 # .idea, not sure why it keeps appearing, prob because of gitpod though
 **/,idea
+
+# Build directories
+**/build/
