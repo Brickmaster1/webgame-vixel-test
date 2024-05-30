@@ -1,8 +1,9 @@
 # Vscode directory
 **/.vscode
 
-# Clangd caches
+# Clangd caches and compile commands for clangd
 **/.cache
+**/compile_commands.json
 
 # .idea, not sure why it keeps appearing, prob because of gitpod though
 **/,idea
