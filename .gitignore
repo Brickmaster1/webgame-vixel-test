@@ -1,18 +1,5 @@
-# First, ignore everything
-*
-# Now, whitelist anything that's a directory
-!*/
-
-# Whitelist anything that's gits
-!.git*
-
 # Vscode directory
 **/.vscode
 
 # Clangd caches
 **/.cache
-
-# Whitelist file types for the web server.
-!*.html
-!*.js
-!*.wasm
