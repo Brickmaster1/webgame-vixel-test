@@ -1,3 +1,6 @@
 [submodule "ViXeL"]
-	path = ViXeL
-	url = https://git.jetbrains.space/technicalities/main/ViXeL.git
+    path = ViXeL
+    url = https://git.jetbrains.space/technicalities/main/ViXeL.git
+[submodule "vercel-deploy"]
+	path = vercel-deploy
+	url = https://git.jetbrains.space/technicalities/main/vixel-html-vercel.git
